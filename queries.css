@@ -1,8 +1,5 @@
 @media only screen and (max-width: 550px) {
-    
-     .slide4, .slide5 {
+    .slide4, .slide5 {
         display: none;
     }
-
 }
-
